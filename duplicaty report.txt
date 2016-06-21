@@ -1,0 +1,103 @@
+"C:\Program Files\Duplicati\Duplicati.CommandLine.exe" backup --tempdir=C:\backup_tmp\ --passphrase=A1ara45678 --aes-encryption-dont-allow-fallback=true --snapshot-policy=required --full-if-older-than=1M C:\Shares\Act2014\ file://\\backupnas\backups\Deployment\
+
+BackupType      : Full
+TypeReason      : A full backup is made because no existing backup chains were found on the destination
+BeginTime       : 04/27/2016 11:59:29
+EndTime         : 04/27/2016 12:12:28
+Duration        : 00:12:58.7446289
+DeletedFiles    : 0
+DeletedFolders  : 0
+ModifiedFiles   : 0
+AddedFiles      : 1888
+AddedFolders    : 10
+ExaminedFiles   : 1888
+OpenedFiles     : 1888
+SizeOfModified  : 0
+SizeOfAdded     : 1925991279
+SizeOfExamined  : 1925991279
+Unprocessed     : 342
+TooLargeFiles   : 0
+FilesWithError  : 0
+Executable      : Duplicati.CommandLine, Version=1.3.4.0, Culture=neutral, PublicKeyToken=8bfe994a39631a7b
+Library         : Duplicati.Library.Main, Version=1.3.4.0, Culture=neutral, PublicKeyToken=8bfe994a39631a7b
+OperationName   : Backup
+BytesUploaded   : 879409109
+BytesDownloaded : 0
+RemoteCalls     : 255
+NumberOfErrors  : 1
+****************
+Failed after uploading 83 volume(s). Error message: Failed to upload file "dupli
+cati-full-content.20160427T105931Z.vol84.zip.aes": The folder \\backupnas\backup
+s\Deployment\ does not exist
+****************
+NumberOfRetries : 5
+RetryOperations : 5
+
+C:\Windows\system32>"C:\Program Files\Duplicati\Duplicati.CommandLine.exe" backu
+p --tempdir=C:\backup_tmp\ --passphrase=A1ara45678 --aes-encryption-dont-allow-f
+allback=true --snapshot-policy=required --full-if-older-than=1M C:\Shares\Act201
+4\ file://\\backupnas\backups\Deployment\
+
+Failed to retrieve file listing: The folder \\backupnas\backups\Deployment\ does
+ not exist
+
+
+
+BackupType      : Full
+TypeReason      : A full backup is made because no existing backup chains were f
+ound on the destination
+BeginTime       : 04/27/2016 12:24:28
+EndTime         : 04/27/2016 12:40:59
+Duration        : 00:16:31.9457778
+DeletedFiles    : 0
+DeletedFolders  : 0
+ModifiedFiles   : 0
+AddedFiles      : 2230
+AddedFolders    : 10
+ExaminedFiles   : 2230
+OpenedFiles     : 2230
+SizeOfModified  : 0
+SizeOfAdded     : 2126820092
+SizeOfExamined  : 2126820092
+Unprocessed     : 0
+TooLargeFiles   : 0
+FilesWithError  : 0
+Executable      : Duplicati.CommandLine, Version=1.3.4.0, Culture=neutral, Publi
+cKeyToken=8bfe994a39631a7b
+Library         : Duplicati.Library.Main, Version=1.3.4.0, Culture=neutral, Publ
+icKeyToken=8bfe994a39631a7b
+OperationName   : Backup
+BytesUploaded   : 1545318094
+BytesDownloaded : 0
+RemoteCalls     : 440
+NumberOfRetries : 1
+RetryOperations : 1
+
+
+BackupType      : Incremental
+TypeReason      : An incremental backup is made because the latest full backup i
+s from 27/04/2016 12:24:29 and the full backup threshold is 1M
+BeginTime       : 04/27/2016 14:08:24
+EndTime         : 04/27/2016 14:09:11
+Duration        : 00:00:46.9123687
+DeletedFiles    : 0
+DeletedFolders  : 0
+ModifiedFiles   : 0
+AddedFiles      : 0
+AddedFolders    : 0
+ExaminedFiles   : 2230
+OpenedFiles     : 0
+SizeOfModified  : 0
+SizeOfAdded     : 0
+SizeOfExamined  : 0
+Unprocessed     : 0
+TooLargeFiles   : 0
+FilesWithError  : 0
+Executable      : Duplicati.CommandLine, Version=1.3.4.0, Culture=neutral, Publi
+cKeyToken=8bfe994a39631a7b
+Library         : Duplicati.Library.Main, Version=1.3.4.0, Culture=neutral, Publ
+icKeyToken=8bfe994a39631a7b
+OperationName   : Backup
+BytesUploaded   : 0
+BytesDownloaded : 13132137
+RemoteCalls     : 148

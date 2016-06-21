@@ -1,0 +1,26 @@
+sending incremental file list
+scripts/
+scripts/MtaSync.log
+scripts/mta-sync.output
+scripts/mta-sync.rb
+scripts/mtaSync.log
+
+sent 210,526 bytes  received 1,098 bytes  141,082.67 bytes/sec
+total size is 209,758,733  speedup is 991.19
+################################################################################
+sending incremental file list
+scripts/mta-sync.output
+scripts/mtaSync.log
+
+sent 210,193 bytes  received 1,037 bytes  84,492.00 bytes/sec
+total size is 209,759,133  speedup is 993.04
+################################################################################
+sending incremental file list
+deleting scripts/MtaSync.log
+scripts/
+scripts/mta-sync.output
+scripts/mtaSync.log
+
+sent 210,203 bytes  received 1,075 bytes  140,852.00 bytes/sec
+total size is 209,759,135  speedup is 992.81
+################################################################################

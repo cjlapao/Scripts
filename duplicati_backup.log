@@ -1,0 +1,134 @@
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 11:59:29;04/27/2016 12:12:28;00:12:58.7446289;0;0;0;1888;10;1888;1888;0;1925991279;1925991279;342;0;0;Duplicati.CommandLine, Version=1.3.4.0, Culture=neutral, PublicKeyToken=8bfe994a39631a7b;Duplicati.Library.Main, Version=1.3.4.0, Culture=neutral, PublicKeyToken=8bfe994a39631a7b;Backup;879409109;0;255;1;5;5
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 11:59:29;04/27/2016 12:12:28;00:12:58.7446289;0;0;0;1888;10;1888;1888;0;1925991279;1925991279;342;0;0;Backup;879409109;0;255;1;5;5
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 11:59:29;04/27/2016 12:12:28;00:12:58.7446289;0;0;0;1888;10;1888;1888;0;1925991279;1925991279;342;0;0;Backup;879409109;0;255;1;5;5
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 11:59:29;04/27/2016 12:12:28;00:12:58.7446289;0;0;0;1888;10;1888;1888;0;1925991279;1925991279;342;0;0;Backup;879409109;0;255;0;5;5
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 11:59:29;04/27/2016 12:12:28;00:12:58.7446289;0;0;0;1888;10;1888;1888;0;1925991279;1925991279;342;0;0;Backup;879409109;0;255;0;5;5
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 11:59:29;04/27/2016 12:12:28;00:12:58.7446289;0;0;0;1888;10;1888;1888;0;1925991279;1925991279;342;0;0;Backup;879409109;0;255;2;5;5
+0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup ;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup i;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;;
+Incrementa;An incremental backup is made because the latest full backup is from 27/04/2016 12:24:29 and the full backup threshold is 1M;04/27/2016 14:08:2;04/27/2016 14:09:1;00:00:46.912368;;;;;;223;;;;;;;;Backu;;1313213;14;0;0;0
+Ful;A full backup is made because no existing backup chains were found on the destination;04/27/2016 12:24:2;04/27/2016 12:40:5;00:16:31.945777;;;;223;1;223;223;;212682009;212682009;;;;Backu;154531809;;44;0;;
+Full;A full backup is made because no existing backup chains were found on the destination;04/27/2016 12:24:28;04/27/2016 12:40:59;00:16:31.9457778;0;0;0;2230;10;2230;2230;0;2126820092;2126820092;0;0;0;Backup;1545318094;0;440;0;1;1
+Incremental;An incremental backup is made because the latest full backup is from 27/04/2016 12:24:29 and the full backup threshold is 1M;04/27/2016 14:08:24;04/27/2016 14:09:11;00:00:46.9123687;0;0;0;0;0;2230;0;0;0;0;0;0;0;Backup;0;13132137;148;0;0;0
+0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
