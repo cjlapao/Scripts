@@ -1,0 +1,1 @@
+sutdown /r /t 0
